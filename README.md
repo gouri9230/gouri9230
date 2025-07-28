@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Shrigouri</h1>
 <h3 align="center">A self-taught blockchain developer — building skills from the ground up with a keyboard and a dream.</h3>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri9230&label=Profile%20views&color=0e75b6&style=flat" alt="gouri9230" /> </p>
 
