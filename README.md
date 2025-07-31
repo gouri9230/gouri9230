@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning: **Backend development with Node.js, Hardhat and Foundry for smart contract testing & deployment**
 
-- 👯 I’m looking to collaborate on: **open-source Web3 projects - whether it’s debugging, writing code, or just pairing up.**
-
 - 🔜 Up Next: **Rust is next on my list — once I’m more confident with my current stack.**
 
 - 📫 Reach me at: **snavaratna23@gmail.com**
