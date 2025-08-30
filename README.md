@@ -14,9 +14,9 @@
   <a href="https://linkedin.com/in/shrigouri-navaratna" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrigouri-navaratna" height="30" width="40" />
   </a>
-  <a href="https://classy-tick-4c5.notion.site/Shrigouri-Navaratna-s-Portfolio-241ac9d4a67880dc93a7f10fdb7dfac6" target="_blank">
+  <!-- <a href="https://classy-tick-4c5.notion.site/Shrigouri-Navaratna-s-Portfolio-241ac9d4a67880dc93a7f10fdb7dfac6" target="_blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/briefcase.png" alt="Portfolio" height="30" width="30"/>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
