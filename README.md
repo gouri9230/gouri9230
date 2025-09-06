@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 I'm Shrigouri</h1>
-<h3 align="center">A self-taught backend developer — building skills from the ground up with a keyboard and a dream.</h3>
+<h3 align="center">A Software Engineer & Backend developer — building skills from the ground up with a keyboard and a dream.</h3>
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri9230&label=Profile%20views&color=0e75b6&style=flat" alt="gouri9230" /> </p>
 
-- 🔭 I’m currently focusing on: **backend development with Node.js and testing frameworks. On the Web3 side, I enjoy writing Solidity smart contracts and experimenting with decentralized applications.**
+- 🔭 I enjoy writing clean code, solving problems, and continuously learning new technologies to grow as a backend developer.
 
-- 📫 Reach me at: **snavaratna23@gmail.com**
+- 📫 Reach me at: **shrigouri.navaratna@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
