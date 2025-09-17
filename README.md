@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Shrigouri</h1>
 <h3 align="center">An emerging Smart Contract Developer — building my skills one contract at a time.</h3>
-<h5 align="center"><i>"In crypto, security isn't optional—it's the foundation."</i></h5>
+<h5 align="center"><i>"In crypto, security isn't optional—it's the foundation."</i>- inspired by my work</h5>
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 </div>
