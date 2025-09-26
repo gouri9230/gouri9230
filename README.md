@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Shrigouri</h1>
-<h3 align="center">An emerging Smart Contract Developer — building my skills one contract at a time.</h3>
+<h3 align="center">A self-taught Blockchain & Smart Contract Developer — building my skills one contract at a time.</h3>
 <h5 align="center"><i>"In crypto, security isn't optional—it's the foundation."</i>- inspired by my work</h5>
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
@@ -8,8 +8,7 @@
 
 <h3>📚 Learning Journey: </h3>
 <p>- Mastering Solidity for writing secure, gas-efficient smart contracts.</p>
-<p>- Exploring Rust for protocol engineering.</p>
-<p>- Building backend projects using tools like Hardhat and Foundry to enhance testing, deployment, and optimization.</p>
+<p>- Building DApps using Solidity, Truffle and Hardhat along with Web3.js and Ether.js for backend and React.js + javascript as frontend</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +20,8 @@
 <p><a href="mailto:shrigouri.navaratna@gmail.com">shrigouri.navaratna@gmail.com</a></p>
 
 <h3 align="left">Languages: </h3>
-<p>Python | Solidity | node.js | Rust</p>
+<p>Python | Solidity | Javascript </p>
 <h3 align="left">Frameworks & Tools: </h3>
-<p>Hardhat | Foundry | Git </p>
+<p>Hardhat | Truffle | Web3.js | Ether.js </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouri9230&layout=compact&langs_count=10&cache_seconds=1" /></p>
