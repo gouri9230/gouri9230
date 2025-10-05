@@ -8,7 +8,7 @@
 
 <h3>📚 Learning Journey: </h3>
 <p>- Mastering Solidity for writing secure, gas-efficient smart contracts.</p>
-<p>- Building DApps using Solidity, Truffle and Hardhat along with Web3.js and Ether.js for backend and React.js + javascript as frontend</p>
+<p>- Building backend DApps using Solidity, Ether.js and Hardhat </p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,6 @@
 <h3 align="left">Languages: </h3>
 <p>Python | Solidity | Javascript </p>
 <h3 align="left">Frameworks & Tools: </h3>
-<p>Hardhat | Truffle | Web3.js | Ether.js </p>
+<p>Hardhat | Ether.js | MetaMask</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouri9230&layout=compact&langs_count=10&cache_seconds=1" /></p>
