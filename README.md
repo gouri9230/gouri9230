@@ -9,14 +9,11 @@
 <h3>📚 Learning Journey: </h3>
 <p>- Mastering Solidity for writing secure, gas-efficient smart contracts.</p>
 <p>- Building backend DApps using Solidity, Ether.js and Hardhat </p>
+<p>- Checkout my personal portfolio: <a href="https://classy-tick-4c5.notion.site/Shrigouri-Navaratna-s-Portfolio-241ac9d4a67880dc93a7f10fdb7dfac6" target="_blank">Portfolio</a></p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shrigouri-navaratna" target="_blank">LinkedIn</a>
-  <!-- <a href="https://classy-tick-4c5.notion.site/Shrigouri-Navaratna-s-Portfolio-241ac9d4a67880dc93a7f10fdb7dfac6" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/briefcase.png" alt="Portfolio" height="30" width="30"/>
-  </a> -->
-</p>
+  <a href="https://linkedin.com/in/shrigouri-navaratna" target="_blank">LinkedIn</a></p>
 <p><a href="mailto:shrigouri.navaratna@gmail.com">shrigouri.navaratna@gmail.com</a></p>
 
 <h3 align="left">Languages: </h3>
